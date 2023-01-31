@@ -1,4 +1,5 @@
-===========================================================================                                                                 *\--INSTRUÇÕES PARA ACESSAR--/*
+===========================================================================                                                                 
+                   *\--INSTRUÇÕES PARA ACESSAR--/*
 
 1.Baixar os códigos fornecidos no GitHub;
 
@@ -13,4 +14,5 @@
 6.No PostMan utilizar os comandos disponíveis, como "/pessoa", para verificar a lista;
 
 7.Depois dos testes, desligar a aplicação na IDE. 
+
 ===========================================================================
